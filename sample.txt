@@ -3,3 +3,5 @@ this is second line
 fasfdsafas
 fsafdsaf
 fasf
+chmod 400 "jmsth47.pem"
+Connect to your instance using its Public DNS:
